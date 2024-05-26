@@ -1,0 +1,9 @@
+.pallette{
+    width: 100px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.pallette > .box{
+    height: 300px;
+}
